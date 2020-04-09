@@ -1,0 +1,29 @@
+{
+  "name": "Nano Black",
+  "version": "1.2",
+  "description": "This extension blacks out all pictures in this browsing session",
+  "manifest_version": 2,
+
+  "browser_action": {
+  "default_icon": "icon.png",
+  "default_title": "nano black",
+  "default_popup": "popup.html"
+  },
+
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+
+
+  "content_scripts" : [{
+    "matches": ["https://*/*","http://*/*"],
+    "css": ["blackout.css"],
+    "js": ["injector-min.js"],
+    "run_at": "document_start",
+    "all_frames": true
+  }],
+
+  "web_accessible_resources": ["blackout-min.js"]
+
+}

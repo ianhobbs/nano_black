@@ -1,0 +1,1 @@
+osacompile -o "/Applications/Full Screen.app" /Users/ianhobbs/Library/Mobile\ Documents/com\~apple\~ScriptEditor2/Documents/fullscreen.scpt
