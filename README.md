@@ -12,4 +12,8 @@ This plugin injects custom javascript and css into a chrome browser.
 2. Go to the chrome://extensions/ page and click the Load unpacked extension button.
 3. Choose extension folder.
 
+## This was used in
 
+Consequences show bundled with a full show script gathering each days news.
+
+https://ianhobbs.net/consequences.php
