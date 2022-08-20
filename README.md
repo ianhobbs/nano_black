@@ -1,7 +1,7 @@
 # nanoBlack
 A chrome plugin
 
-Version 0.1
+Version 0.2
 
 Ian Hobbs and Contributors
 
