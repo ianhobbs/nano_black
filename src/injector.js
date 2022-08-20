@@ -39,7 +39,7 @@
         chrome.storage.sync.set({
             color: '#222'
         }, function() {
-            console.log("Black");
+            console.log("Nano Black");
         });
 
     });

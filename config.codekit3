@@ -9,6 +9,14 @@
   ],
   "creatorBuild" : "34408",
   "files" : {
+    "\/.gitignore" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/.gitignore",
+      "oF" : 0
+    },
     "\/build" : {
       "ft" : 65536,
       "oA" : 1,
@@ -69,20 +77,8 @@
       "rFN" : 0,
       "uCM" : 0
     },
-    "\/src\/blackout.css" : {
-      "aP" : 1,
-      "bl" : 0,
-      "ci" : 0,
-      "co" : 0,
-      "ft" : 16,
-      "ma" : 0,
-      "oA" : 0,
-      "oAP" : "\/build\/blackout-min.css",
-      "oF" : 0,
-      "pg" : 0
-    },
     "\/src\/blackout.js" : {
-      "bF" : 0,
+      "bF" : 4,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
@@ -92,13 +88,41 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/src\/blackout.styl" : {
+      "aP" : 1,
+      "bl" : 0,
+      "co" : 1,
+      "dS" : 0,
+      "ft" : 8,
+      "iC" : 0,
+      "ma" : 1,
+      "oA" : 0,
+      "oAP" : "\/build\/blackout.css",
+      "oF" : 0,
+      "oS" : 1,
+      "pg" : 0,
+      "rrU" : 0
+    },
     "\/src\/compile.bash" : {
       "cB" : 0,
       "ft" : 8192,
       "hM" : 0,
-      "oA" : 0,
+      "oA" : 2,
       "oAP" : "\/build\/compile.bash",
-      "oF" : 0
+      "oF" : 1
+    },
+    "\/src\/icon.png" : {
+      "ft" : 32768,
+      "iS" : 243,
+      "oA" : 0,
+      "oAP" : "\/build\/icon.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
+      "rq" : 75
     },
     "\/src\/injector.js" : {
       "bF" : 0,
@@ -108,7 +132,7 @@
       "oA" : 0,
       "oAP" : "\/build\/injector-min.js",
       "oF" : 0,
-      "sC" : 3,
+      "sC" : 0,
       "tS" : 0
     },
     "\/src\/manifest.json" : {

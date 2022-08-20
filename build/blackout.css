@@ -1,1 +1,2 @@
-img{display:block !important;-webkit-filter:brightness(0%) !important;filter:brightness(0%) !important}iframe img{-webkit-filter:brightness(0%) !important;filter:brightness(0%) !important}h1,h2{color:black !important}p,h3,ul{background-color:black !important}body{background-color:#777 !important}
+img{display:block!important}iframe img,img{-webkit-filter:brightness(0%)!important;filter:brightness(0%)!important}h1,h2{color:#000!important}h3,p,ul{background-color:#000!important}body{background-color:#777!important}
+/*# sourceMappingURL=blackout.css.map */
