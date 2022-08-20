@@ -1,0 +1,1 @@
+import{gsap}from"gsap";import{TimelineLite}from"gsap/TimelineLite.js";import{ScrollToPlugin}from"gsap/ScrollToPlugin.js";gsap.registerPlugin(TimelineLite,ScrollToPlugin),document.addEventListener("DOMContentLoaded",(function(){var e=document.querySelectorAll("img"),i=new TimelineLite;i.add(i.to(e,2,{scale:1})),i.add(i.to(window,4,{scrollTo:400})),i.play()}),!1);

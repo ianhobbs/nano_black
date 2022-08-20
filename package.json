@@ -1,0 +1,27 @@
+{
+  "name": "nano_black",
+  "version": "0.0.2",
+  "description": "A bro3ser Plugin which manipulates web page images and text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ianhobbs@github.com/ianhobbs/nano_black.git"
+  },
+  "keywords": [
+    "browser",
+    "chrome",
+    "plugin"
+  ],
+  "author": "Ian Hobbs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ianhobbs/nano_black/issues"
+  },
+  "homepage": "https://github.com/ianhobbs/nano_black#readme",
+  "dependencies": {
+    "gsap": "^3.11.0"
+  }
+}
