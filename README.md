@@ -6,7 +6,7 @@ Version 0.2
 Ian Hobbs and Contributors
 
 This plugin injects custom javascript and css into a chrome browser.
-It blackens all images.
+It **blackens** all images.
 
 ## How to install
 1. Launch Chrome Extensions Manager
