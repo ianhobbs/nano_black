@@ -6,7 +6,7 @@ Version 0.2
 Ian Hobbs and Contributors
 
 This plugin injects custom javascript and css into a chrome browser.
-It **blackens** all images.
+It **blackouts** all images. Customise the css to render H1 etc tags with black etc.
 
 ## How to install
 1. Launch Chrome Extensions Manager
